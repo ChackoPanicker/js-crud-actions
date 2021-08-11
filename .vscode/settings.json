@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/b3c10675-d75e-4f97-b2ea-6455256e6c1e/resourceGroups/chipmunks-resource-group/providers/Microsoft.Web/sites/chipmunk-rocketship",
+    "appService.deploySubpath": "."
+}
